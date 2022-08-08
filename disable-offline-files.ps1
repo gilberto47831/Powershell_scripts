@@ -1,0 +1,1 @@
+Get-CimInstance -ClassName 'win32_offlinefilescache' | Invoke-CimMethod -MethodName Enable -Arguments @{enable=$false}
