@@ -1,2 +1,2 @@
 # Powershell_scripts
-Various powershell scripts to help perform various tasks.
+Various powershell scripts to automate tasks for work.
